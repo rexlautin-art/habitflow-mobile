@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "HabitFlow Mobile",
+    "slug": "habitflow-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.rexlautin.habitflow"
+    },
+    "ios": {
+      "bundleIdentifier": "com.rexlautin.habitflow"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
